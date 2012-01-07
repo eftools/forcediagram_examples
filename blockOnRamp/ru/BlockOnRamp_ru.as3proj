@@ -4,7 +4,7 @@
   <output>
     <movie outputType="Application" />
     <movie input="" />
-    <movie path="bin\ForceDiagramen.swf" />
+    <movie path="bin\BlockOnRamp.swf" />
     <movie fps="30" />
     <movie width="800" />
     <movie height="600" />
